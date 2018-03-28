@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources around decentralized applications (Ðapps)
 
-Easily access this list @ [`dapps.cool`](http://dapps.cool).
+Easily access this list @ [`Dapp Insight`](https://dappinsight.com).
 
 ## Contents
 
@@ -61,6 +61,7 @@ Easily access this list @ [`dapps.cool`](http://dapps.cool).
 
 ### Education
 
+- [Dapp Insight](https://dappinsight.com) - A curated listing of Dapps built on Ethereum. 
 - [State of the DApps](https://dapps.ethercasts.com/) - [:octocat:](https://github.com/EtherCasts/state-of-the-dapps) - State of the DApps lists of all Ethereum DApps known to mankind
 
 ### Shopping
